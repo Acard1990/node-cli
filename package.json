@@ -1,0 +1,25 @@
+{
+  "name": "node-cli",
+  "version": "1.0.0",
+  "description": "weatherapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Acard1990/node-cli.git"
+  },
+  "author": "ScottCard",
+  "license": "ISC",
+  "bin": {
+    "outside": "bin/outside"
+  },
+  "bugs": {
+    "url": "https://github.com/Acard1990/node-cli/issues"
+  },
+  "homepage": "https://github.com/Acard1990/node-cli#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
